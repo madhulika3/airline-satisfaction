@@ -1,1 +1,2 @@
 # airline-passenger-satisfaction
+This research aims to analyze important service features on flights, so airlines can re-strategise their business model and put majority focus on the services that play a crucial role in passenger satisfaction to gain more market share. This research will not only benefit the incumbent airlines but will also be useful for new prospects who plan to enter this industry.
