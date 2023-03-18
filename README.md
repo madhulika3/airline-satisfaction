@@ -1,1 +1,1 @@
-# airline-satisfaction
+# airline-passenger-satisfaction
